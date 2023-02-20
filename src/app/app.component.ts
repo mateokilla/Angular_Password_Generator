@@ -9,6 +9,6 @@ export class AppComponent {
   password = '';
 
   onButtonClick() {
-    this.password = 'my ass pain'
+    this.password = 'my ass pain and a shat myself'
   }
 }
